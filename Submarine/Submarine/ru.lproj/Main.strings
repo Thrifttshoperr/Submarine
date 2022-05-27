@@ -1,0 +1,81 @@
+
+/* Class = "UISegmentedControl"; 3O8-uI-u2Q.segmentTitles[0] = "Cartoon"; ObjectID = "3O8-uI-u2Q"; */
+"3O8-uI-u2Q.segmentTitles[0]" = "Cartoon";
+
+/* Class = "UISegmentedControl"; 3O8-uI-u2Q.segmentTitles[1] = "Wild"; ObjectID = "3O8-uI-u2Q"; */
+"3O8-uI-u2Q.segmentTitles[1]" = "Wild";
+
+/* Class = "UISegmentedControl"; 7Pg-Ue-rsE.segmentTitles[0] = "Cartoon"; ObjectID = "7Pg-Ue-rsE"; */
+"7Pg-Ue-rsE.segmentTitles[0]" = "Cartoon";
+
+/* Class = "UISegmentedControl"; 7Pg-Ue-rsE.segmentTitles[1] = "Military"; ObjectID = "7Pg-Ue-rsE"; */
+"7Pg-Ue-rsE.segmentTitles[1]" = "Military";
+
+/* Class = "UIButton"; configuration.title = "CHANGE NAME"; ObjectID = "9ly-ms-rbm"; */
+"9ly-ms-rbm.configuration.title" = "CHANGE NAME";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9ly-ms-rbm"; */
+"9ly-ms-rbm.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Clear"; ObjectID = "CIA-7t-uar"; */
+"CIA-7t-uar.configuration.title" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CIA-7t-uar"; */
+"CIA-7t-uar.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "SETTINGS"; ObjectID = "Flc-C3-y1L"; */
+"Flc-C3-y1L.configuration.title" = "SETTINGS";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Flc-C3-y1L"; */
+"Flc-C3-y1L.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "DOWN"; ObjectID = "LFA-If-Ktm"; */
+"LFA-If-Ktm.configuration.title" = "DOWN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LFA-If-Ktm"; */
+"LFA-If-Ktm.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "SCORE"; ObjectID = "Obr-KM-xrP"; */
+"Obr-KM-xrP.configuration.title" = "SCORE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Obr-KM-xrP"; */
+"Obr-KM-xrP.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QsO-FS-xBu"; */
+"QsO-FS-xBu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rf9-FS-wN8"; */
+"Rf9-FS-wN8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Suh-ix-Du5"; */
+"Suh-ix-Du5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WKW-HJ-5bm"; */
+"WKW-HJ-5bm.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "UP"; ObjectID = "XA2-qS-5af"; */
+"XA2-qS-5af.configuration.title" = "UP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XA2-qS-5af"; */
+"XA2-qS-5af.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zt3-DZ-siA"; */
+"Zt3-DZ-siA.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "START"; ObjectID = "cyy-t0-hpI"; */
+"cyy-t0-hpI.configuration.title" = "START";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cyy-t0-hpI"; */
+"cyy-t0-hpI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i6s-Nh-kf5"; */
+"i6s-Nh-kf5.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter the text"; ObjectID = "k3t-aC-sWp"; */
+"k3t-aC-sWp.placeholder" = "Enter the text";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oeU-M4-Oxj"; */
+"oeU-M4-Oxj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score is 0"; ObjectID = "shh-0d-oxC"; */
+"shh-0d-oxC.text" = "Score is 0";
