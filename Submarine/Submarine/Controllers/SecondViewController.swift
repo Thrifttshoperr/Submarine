@@ -138,12 +138,18 @@ class SecondViewController: UIViewController {
         UIView.animate(withDuration: 0.5) {
             self.submarine.frame.origin.y -= offsetSubmarine
         }
+        if self.submarine.frame.origin.y < 0.0 {
+            self.submarine.frame.origin.y += offsetSubmarine
+        }
     }
     
     func moveDownSubmarine() {
         let offsetSubmarine: CGFloat = 15
         UIView.animate(withDuration: 0.5) {
             self.submarine.frame.origin.y += offsetSubmarine
+        }
+        if self.submarine.frame.origin.y > self.view.frame.maxY - 50 {
+            self.submarine.frame.origin.y -= offsetSubmarine
         }
     }
     
