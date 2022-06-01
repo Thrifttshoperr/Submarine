@@ -25,6 +25,9 @@ class SettingsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        let recognizer = UITapGestureRecognizer(target: self, action: #selector(tapDetected(_:)))
+        self.view.addGestureRecognizer(recognizer)
+        
         let changeNameButtonTitle = "Change name".localized
         changeNameButton.setTitle(changeNameButtonTitle, for: .normal)
         
@@ -53,6 +56,10 @@ class SettingsViewController: UIViewController {
     
     @IBAction func showMainVC(_ sender: UIButton) {
         self.navigationController?.popToRootViewController(animated: true)
+    }
+    
+    @IBAction func tapDetected(_ recognizer: UITapGestureRecognizer) {
+        self.view.endEditing(true)
     }
     
     @IBAction func pressChangePlayerName(_ sender: UIButton) {
